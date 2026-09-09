@@ -1,0 +1,22 @@
+Stakeholder,Criteria,Closed-loop Hydropower,Open-loop Reservoir,"Open-loop 
+High-head",Lithium-Ion Battery Farm,Criteria_Weight
+Nant de Drance SA,"Safety (Operational, Social, Environmental)",100,70,50,40,0.3
+Nant de Drance SA,Capacity of  Generation,80,50,50,0,0.1
+Nant de Drance SA,Efficiency,80,60,60,0,0.2
+Nant de Drance SA,Constructability ,20,50,50,80,0.1
+Nant de Drance SA,Maintainability,15,30,30,50,0.1
+Nant de Drance SA,Sustainability,100,50,50,70,0.2
+Government/Utility Company (Swiss Grid) ,"Safety (Operational, Environmental)",100,70,50,40,0.2
+Government/Utility Company (Swiss Grid) ,Energy Generated ,80,50,50,0,0.15
+Government/Utility Company (Swiss Grid) ,Reliability (Operation/Generation),70,30,30,70,0.4
+Government/Utility Company (Swiss Grid) ,Connection to the Grid ,30,50,50,100,0.2
+Government/Utility Company (Swiss Grid) ,Recreational opportunities,15,50,30,0,0.05
+Commercial Stakeholders ,Asset Lifetime,60,80,80,20,0.25
+Commercial Stakeholders ,Reliability,70,30,30,70,0.5
+Commercial Stakeholders ,Efficiency,80,60,60,0,0.25
+Local Residents/ Municipality (Finhaut),Environmental impact,40,60,60,30,0.6
+Local Residents/ Municipality (Finhaut),Recreational opportunities,60,40,40,0,0.15
+Local Residents/ Municipality (Finhaut),Visual Pollution,100,40,30,10,0.25
+Environment Organisations,Carbon Footprint,10,45,30,0,0.5
+Environment Organisations,Wildlife Impact,25,30,15,55,0.25
+Environment Organisations,Water Quality (reduction),60,40,25,80,0.25
